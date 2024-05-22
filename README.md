@@ -1,7 +1,7 @@
 HR-Dashboard-MySQL-PowerBI
 ![HR Employee Report screenshot](https://github.com/buckmn0333/Database_Management-Portfolio/assets/117545217/8bb56b3b-3c9c-479e-8bc6-9a442c49a808)
 
-These are the Questions That and this is the rport that I made with PowerBI that I wrote Queries from MySQL Using data I extracted from an Excel Spreadsheet. This was  project I did nd mde for my portfolio
+These are the Questions and also this is the report that I made with PowerBI. I wrote SQL Queries in MySQL Using data I extracted from an Excel Spreadsheet and designed my report in PowerBI using my SQL code. This was a project I did nd mde for my portfolio.
 
 -- Questions
 
